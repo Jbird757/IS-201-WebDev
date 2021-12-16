@@ -1,0 +1,68 @@
+header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    color: rgb(252, 252, 252);
+    text-align: center;
+}
+
+body {
+    background-image: url("../images/img/black\ wood.jpg");
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+#top-nav {
+    text-align: right;
+    margin-right: 10%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header-hyperlink {
+    color: white;
+}
+
+.header-hyperlink:visited {
+    color: tomato;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.inline {
+    display: inline-flex;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+}
+
+.footer-hyperlink {
+    color: teal;
+}
+
+.footer-hyperlink:visited {
+    color: rgb(85, 69, 192);
+}
+
+.centered {
+    margin-left: 25%;
+    height: 100%;
+}
+
+.wbody {
+    color: white;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 3%;
+    width: 50%;
+}
+
+.black-background {
+    background-image: url("../images/img/black\ wood.jpg");
+}

@@ -1,0 +1,30 @@
+#profilepic {
+    border-radius: 50%;
+}
+
+#logo {
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+.subheading {
+    background-color: rgba(0, 0, 0, 0.507);
+    border-radius: 25px;
+}
+
+body {
+    background-image: url("../images/img/black\ wood.jpg");
+}
+
+.belement {
+    background-color: white;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.italic-b {
+    font-style: italic;
+    margin-bottom: 5px;
+}
